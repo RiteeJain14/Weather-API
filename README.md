@@ -1,8 +1,10 @@
+Created by Ritee Jain
+
 # Weather-API
 
 1.1. Clone the repository (Windows/macOS)
 
-&emsp;&emsp;&emsp;git clone https://github.com/Abhishek-Jain-12072000/Weather-API.git
+&emsp;&emsp;&emsp;git clone https://github.com/RiteeJain14/Weather-API.git
 
 2.1. Create virtual environment (macOS)
 
